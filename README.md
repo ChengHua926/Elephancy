@@ -1,4 +1,4 @@
-# flow_app
+# Elephancy
 
 A new Flutter project.
 
